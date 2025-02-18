@@ -23,7 +23,17 @@ Different libraries and their uses:
 * MatPlotLib- 2D plotting library for creating graphs and plots
 * Scikitlearn- very popular for ML; provides algorithms like decision trees, neural networks, etc.
 
-Jupyter is good for ML as we frequently need to inspect the data. 
+Jupyter is good for ML as we frequently need to inspect the data. Can run each 'cell' independently. Green band on a cell is edit mode, blue band is command mode. 
+
+Shortcuts: 'b' for cell below, 'a' for cell above, 'dd' to delete. 
+
+Pandas gives us access to data frame, which is a 2D data structure like a spreadsheet. 
+Import pandas library. Create a pandas object and call methods on it. Some key methods are:
+
+* .shape(): returns total rows and total columns
+* .values(): returns an array; the outer one is the row
+* .describe(): returns basic statistics, such as count (number of records in each column), mean, standard deviation (variance between the sets), min, max, 25%, 50%, 75%.
+
 
 ### Links
 https://saturncloud.io/blog/how-to-add-jupyter-notebook-to-github/
