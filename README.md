@@ -1,4 +1,4 @@
-#Machine Learning Tutorial
+# Machine Learning Tutorial
 From Programming with Mosh
 
 I knew absolutely nothing about ML learning before taking this tutorial. It's a topic I've always shied away from. I randomly decided to watch this tutorial and, 
