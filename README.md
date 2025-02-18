@@ -8,7 +8,14 @@ I'd heard of Jupyter Notebooks, but had no idea what they were. Also, I've learn
 
 I've written my few notes down here, so I can easily review them in future. 
 
-
+## Notes
+Using data for Machine Learning, we need to:
+1. Import the data
+2. Clean the data
+3. Split the data into training/test sets
+4. Create a model
+5. Train the model
+6. Make predictions
 
 ### Links
 https://saturncloud.io/blog/how-to-add-jupyter-notebook-to-github/
